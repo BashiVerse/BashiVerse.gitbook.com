@@ -1,0 +1,45 @@
+# Roadmap
+
+We do not take any opportunity or privilege to build a great product for granted. We understand precisely what the project demands of us as we have a clear purpose to execute. After several weeks of building out Apollo’s database for Apollo’s gameplay mechanics, we drew up newer and potentially much more clever ways of building incentive structures within the current gamefi ecosystem. We hope you are as excited as we are in our departure from web2, fueled by our restless endeavor to realize the grand vision!&#x20;
+
+The Megaverse awaits…&#x20;
+
+### 2021 EOY - Genesis&#x20;
+
+The spark that ignites the ApolloVerse drive and the jet fuel that blasts our project off into development. We will launch Apollo Core Token $APV via fair launch auction to secure the initial raise in order to streamline full-time development at warp speed.&#x20;
+
+Highlights: Apollo Core Token FLA, Unity Development
+
+### 2022 Q1 - Liftoff&#x20;
+
+As the ApolloVerse continues to grow, we rally behind our community and seek to aggressively hire the best-of-the-best game and community building talents to assist and efficiently divide the current workloads that we foresee through many crunch weeks and months. The primary key hires will include an assistant 2D sprite animator to streamline the current creative director’s planned sprints in creating the game’s animation libraries along with quality assurance talent(s) to&#x20;
+
+A: ensure that everything appears and functions smoothly during runtime,&#x20;
+
+B: programmed in-game logic and sequence of functions are consistent and as bug-free as possible in deploying our first mvp, and last but not least,&#x20;
+
+C: the overall balance and gameplay experience of each match or level meets rigorous criteria that we set for addictive replayability.&#x20;
+
+Highlights: Game teasers, First hires&#x20;
+
+### 2022 Q2 - Steady-as-We-Go&#x20;
+
+The ApolloVerse is shaping up to unveil itself. Apollo Prismatic Vault staking begins. The team works closely with testers and game balancing experts to finalize the game mechanics. Our game designers fine tune animations and layers to be pixel perfect. We aim to unveil an ApolloVerse early access game alpha alongside the launch of the Apollo NFTs. **(Potential release of the Apollo NFTs with their in-game non-fungible counterparts near completion in terms of game mechanics and statistics database of graphics and functionalities.)**
+
+Highlights: Staking begins, ApolloVerse teaser, ApolloVerse closed tester signup, \*\*Potential first Apollo NFT airdrop&#x20;
+
+### 2022 Q3 - Calm Before the Storm&#x20;
+
+ApolloVerse open beta signups. The team seeks encouragement and feedback from the community on the game. Players get a first taste of the ApolloVerse. Tens or hundreds of thousands of live game session data will be parsed through and assessed as we ramp up QA efforts in the final polishing phase of the game before Version 1.0 release. First allocation of Apollo Mystery Gem tokens $AMG to ApolloVerse participants on a merit-based proportion. Apache Fusion Gate minting begins. Imporium DEX Apollo marketplace launch. (Could be ready as soon as Q2 2022)&#x20;
+
+Highlights: $AMG airdrops, ApolloVerse open beta signup, Fusion Gate minting beta testing. Imporium DEX
+
+### 2022 Q4 - Eye-of-the-Storm&#x20;
+
+The ApolloVerse is here. The community and team celebrate our first public  ApolloVerse matches. The ApolloVerse Citadel is launched to direct the future of the game and community. Apache mercenaries For-High Program commences. First treasury-funded community tournament season commences!&#x20;
+
+Highlights: ApolloVerse game launch, ApolloVerse Citadel, Treasury-funded tournaments&#x20;
+
+### 2023 - ApolloVerse and Beyond&#x20;
+
+Solo-Player campaign and MegaVerse explorer game mode. Aggressive partnership expansion. ApolloVerse Wagering mode. Apollo wallet release. Mobile App release.
