@@ -4,9 +4,9 @@ The medium which powers the play-to-own ecosystem must be well-distributed and c
 
 
 
-### BashiVerse Token <mark style="color:purple;">BSX</mark>
+### BashiVerse Token <mark style="color:purple;">BASHI</mark>
 
-The BashiVerse Token (BSX) serves as the primary currency for the BashiVerse with a total supply of 1,337,000,000. In order to ensure the steady development and completion of the Megaverse, we structured its allocation and strict issuance rates to disproportionately favor and reward those in the community who participate early and participate often.&#x20;
+The BashiVerse Token (BASHI) serves as the primary currency for the BashiVerse with a total supply of 1,337,000,000. In order to ensure the steady development and completion of the Megaverse, we structured its allocation and strict issuance rates to disproportionately favor and reward those in the community who participate early and participate often.&#x20;
 
 ### Token Distribution Model
 

@@ -6,7 +6,7 @@ The Megaverse awaits…&#x20;
 
 ### 2021 EOY - Genesis&#x20;
 
-The spark that ignites the BashiVerse drive and the jet fuel that blasts our project off into development. We will launch Bashi Core Token $APV via fair launch auction to secure the initial raise in order to streamline full-time development at warp speed.&#x20;
+The spark that ignites the BashiVerse drive and the jet fuel that blasts our project off into development. We will launch Bashi Core Token $BASHI via fair launch auction to secure the initial raise in order to streamline full-time development at warp speed.&#x20;
 
 Highlights: Bashi Core Token FLA, Unity Development
 
