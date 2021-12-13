@@ -30,9 +30,9 @@ Highlights: Staking begins, BashiVerse teaser, BashiVerse closed tester signup, 
 
 ### 2022 Q3 - Calm Before the Storm&#x20;
 
-BashiVerse open beta signups. The team seeks encouragement and feedback from the community on the game. Players get a first taste of the BashiVerse. Tens or hundreds of thousands of live game session data will be parsed through and assessed as we ramp up QA efforts in the final polishing phase of the game before Version 1.0 release. First allocation of Bashi Mystery Gem tokens $AMG to BashiVerse participants on a merit-based proportion. Apache Fusion Gate minting begins. Imporium DEX Bashi marketplace launch. (Could be ready as soon as Q2 2022)&#x20;
+BashiVerse open beta signups. The team seeks encouragement and feedback from the community on the game. Players get a first taste of the BashiVerse. Tens or hundreds of thousands of live game session data will be parsed through and assessed as we ramp up QA efforts in the final polishing phase of the game before Version 1.0 release. First allocation of Bashi Fusion Fuel tokens BFF to BashiVerse participants on a merit-based proportion. Apache Fusion Gate minting begins. Imporium DEX Bashi marketplace launch. (Could be ready as soon as Q2 2022)&#x20;
 
-Highlights: $AMG airdrops, BashiVerse open beta signup, Fusion Gate minting beta testing. Imporium DEX
+Highlights: BFF airdrops, BashiVerse open beta signup, Fusion Gate minting beta testing. Imporium DEX
 
 ### 2022 Q4 - Eye-of-the-Storm&#x20;
 

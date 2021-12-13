@@ -1,6 +1,6 @@
 # The Web 3 Way
 
-Optimize for user experience, and go for mass onboarding is our MO.
+Optimizing for user experience, and going for mass onboarding is our MO.
 
 ### Why 2D over 3D?
 
