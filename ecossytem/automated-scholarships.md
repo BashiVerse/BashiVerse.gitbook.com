@@ -1,6 +1,6 @@
 # Automated Scholarships
 
-### Bashi For-Hire Program: <a href="#apachi-for-hire-program" id="apachi-for-hire-program"></a>
+### Bashi For-Hire Program: <a href="#bashi-for-hire-program" id="bashi-for-hire-program"></a>
 
 Earn BSX tokens while you sleep! See Fair Draft Colosseum in **PvP Mode**. Owners of Bashis can list their Bashi NFTs as **“For-Hire''** in the Bashi Colosseum transforming them into playable mercenaries by players around the world. **If another player drafts the Bashi For-Hire, the owner of the Bashi is then rewarded a percentage of the loot and bounty earned by the primary player(s) of that match after results are settled. **&#x20;
 

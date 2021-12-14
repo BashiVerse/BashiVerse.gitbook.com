@@ -35,9 +35,9 @@ The game will be free-to-play via [<mark style="color:purple;">**Automated Schol
 
 We're always available to help via [<mark style="color:purple;">**our social channels ❤️**</mark>](faqs.md#where-do-i-get-help). You can also start with our [<mark style="color:purple;">**Gameplay**</mark>](faqs.md#gameplay) <mark style="color:purple;">****</mark> section.
 
-### How does the Apollo leveling system work?
+### How does the Bashi leveling system work?
 
-Apollos are just like us and get stronger with each conquered obstacle. Every time an Apollo enters the battlefield, they leave with new experience. You'll be able to track your Apollo's progress and stats via one of the game dashboards.
+Bashis are just like us and get stronger with each conquered obstacle. Every time an Bashi enters the battlefield, they leave with new experience. You'll be able to track your Bashi's progress and stats via one of the game dashboards.
 
 ### Does BashiVerse have a scholarship program?
 
@@ -47,7 +47,7 @@ Yes, BashiVerse will be playable at potentially little to no cost via an [<mark 
 
 ### What is BashiVerse Token (BSX)?
 
-The [<mark style="color:purple;">**BashiVerse Token (BSX)**</mark>](../ecossytem/tokenomics.md#apolloverse-token-apv) is an ERC20 token and serves as the primary medium of exchange within the BashiVerse ecosystem with a total supply of 1,337,000,000.
+The [<mark style="color:purple;">**BashiVerse Token (BSX)**</mark>](../ecossytem/tokenomics.md#bashiverse-token-bashi) is an ERC20 token and serves as the primary medium of exchange within the BashiVerse ecosystem with a total supply of 1,337,000,000.
 
 ### Where can I buy/earn BashiVerse Token (BSX)?
 
@@ -55,7 +55,7 @@ Bashiverse's native token BSX will be launched via [<mark style="color:purple;">
 
 ### What is Bashi Fusion Fuel (BFF)?
 
-The [<mark style="color:purple;">**Bashi Fusion Fuel**</mark>](../ecossytem/bff-and-bashi-minting.md#apollo-mystery-gem-token-amg-fair-launch) **units** is the player and ecosystem-driven ERC-20 token used primarily to mint new Bashis.
+The [<mark style="color:purple;">**Bashi Fusion Fuel**</mark>](../ecossytem/bff-and-bashi-minting.md#bashi-mystery-gem-token-amg-fair-launch) **units** is the player and ecosystem-driven ERC-20 token used primarily to mint new Bashis.
 
 ### Where can I buy/earn Bashi Fusion Fuel (BFF)?
 
