@@ -55,7 +55,7 @@ Bashiverse's native token BSX will be launched via [<mark style="color:purple;">
 
 ### What is Bashi Fusion Fuel (BFF)?
 
-The [<mark style="color:purple;">**Bashi Fusion Fuel**</mark>](../ecossytem/bff-and-bashi-minting.md#bashi-mystery-gem-token-amg-fair-launch) **units** is the player and ecosystem-driven ERC-20 token used primarily to mint new Bashis.
+The [<mark style="color:purple;">**Bashi Fusion Fuel**</mark>](../ecossytem/bff-and-bashi-minting.md) **units** is the player and ecosystem-driven ERC-20 token used primarily to mint new Bashis.
 
 ### Where can I buy/earn Bashi Fusion Fuel (BFF)?
 
