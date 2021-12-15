@@ -24,8 +24,8 @@ NFTs are currently in-development 👩🏻‍💻. Please stay tuned for more in
 
 Please reach out to us via our social networks.
 
-* Discord
-* Twitter
+* [Discord](https://discord.gg/JC8Ghfsfsb)
+* [Twitter](https://twitter.com/BashiVerse)
 
 ### When will the game be released?
 
