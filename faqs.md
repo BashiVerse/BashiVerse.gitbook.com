@@ -33,7 +33,7 @@ We expect to have our first public matches in the BashiVerse in our[ <mark style
 
 ### Is the game free-to-play?
 
-The game will be free-to-play via [<mark style="color:purple;">**Automated Scholarship program**</mark>](ecossytem/automated-scholarships.md). Although, to develop your own play-style and strategies, we recommend <mark style="color:purple;">\*\*\*\*</mark> [<mark style="color:purple;">**minting your own Bashi's**</mark>](ecossytem/bff-and-bashi-minting.md#normal-minting-in-game).
+We do plan to offer free-to-play via [<mark style="color:purple;">**Automated Scholarship program**</mark>](ecossytem/automated-scholarships.md).&#x20;
 
 ## Gameplay
 
