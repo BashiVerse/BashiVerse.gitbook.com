@@ -2,9 +2,9 @@
 
 The medium which powers the play-to-own ecosystem must be well-distributed and carefully designed. We believe that any serious Web3 gaming ecosystem should have the majority supply of its token sealed and attainable only via playing, staking, and or participating.
 
-### BashiVerse Token $<mark style="color:purple;">BASHI</mark>
+### BashiVerse Token $<mark style="color:purple;">BVX</mark>
 
-The BashiVerse Token ($BASHI) serves as the primary currency for the BashiVerse with a total supply of 1,337,000,000. In order to ensure the steady development and completion of the Megaverse, we structured its allocation and strict issuance rates to disproportionately favor and reward those in the community who participate early and participate often.
+The BashiVerse Token (BVX) serves as the primary currency for the BashiVerse with a total supply of 1,337,000,000. In order to ensure the steady development and completion of the Megaverse, we structured its allocation and strict issuance rates to disproportionately favor and reward those in the community who participate early and participate often.
 
 ### Token Distribution Model
 
