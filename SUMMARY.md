@@ -22,4 +22,7 @@
 * [About Us](team/about-us.md)
 * [The Web 3 Way](team/the-web-3-way.md)
 * [Roadmap](team/roadmap.md)
-* [FAQs](team/faqs.md)
+
+***
+
+* [FAQs](faqs.md)
