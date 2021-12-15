@@ -42,4 +42,4 @@ Highlights: BashiVerse game launch, BashiVerse Citadel, Treasury-funded tourname
 
 ## 2023 - BashiVerse and Beyond
 
-Solo-Player campaign and MegaVerse explorer game mode. Aggressive partnership expansion. BashiVerse Wagering mode. Bashi wallet release. Mobile App release.
+Map Editor (Community Driven Content). Solo-Player campaign and MegaVerse explorer game mode. Aggressive partnership expansion. BashiVerse Wagering mode. Bashi wallet release.
