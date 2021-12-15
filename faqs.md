@@ -12,9 +12,9 @@ We are currently in-development 👩🏻‍💻👩🏻‍💻👩🏻‍💻. P
 
 ### How do I get a Bashi NFT?
 
-We do not plan to offer an initial minting sale. Please beware of scammers and imposters.&#x20;
+<mark style="color:orange;">\*\* We do not plan to offer an initial minting sale. Please beware of scammers and imposters.</mark>&#x20;
 
-We will airdrop randomly generated Genuine Bashi NFTs to all $Bashi holders with at least 1337 tokens.
+<mark style="color:purple;">**We will airdrop randomly generated Genuine Bashi NFTs to all $Bashi holders with at least 1337 tokens.**</mark>
 
 Genuine Bashi NFTs will have multi-functional properties within the game that is being built.
 
