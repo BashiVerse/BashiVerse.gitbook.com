@@ -6,6 +6,6 @@ Each Bashi represents an indivisible, 1 of a kind NFT that is <mark style="color
 
 ### NFT Launch
 
-There will be no initial offering of Bashi NFTs as we strongly advise against the community from buying any potential imposter launches. The idea of selling useless .jpgs simply does not sit right with us and we've been as adamant against it during the previous NFT hype cycle as we will ever be regardless of market conditions.
+There will be no initial offering of Bashi NFTs as we strongly advise against the community from buying any potential imposter launches. The idea of selling useless .jpgs simply does not sit well with us and we've been as adamant against it during the previous NFT hype cycle as we will ever be regardless of market conditions.
 
-We have a planned airdrop of randomly generated Bashi NFT(s) to all holders with at least X amount of BSX tokens nearing the game's beta release as a more organic approach to launching our unique Bashi NFTs. We are carefully finalizing each of the components that would make up what's looking to be a 100 million+ possible unique variation of Bashi NFT on the base layer on chain as well as near infinity when coupled with their in-game functions on the metadata level.
+We have a planned airdrop of randomly generated Bashi NFT(s) to all holders with at least 1337 $BASHI tokens nearing the game's beta release as a more organic approach to launching our unique Bashi NFTs. We are carefully finalizing each of the components that would make up what's looking to be a 100 million+ possible unique variation of Bashi NFT on the base layer on chain as well as near infinity when coupled with their in-game functions on the metadata level.
