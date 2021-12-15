@@ -45,9 +45,9 @@ Yes, BashiVerse will be playable at potentially little to no cost via an [<mark 
 
 ## Tokenomics
 
-### What is BashiVerse Token (BSX)?
+### What is BashiVerse Token ($BASHI)?
 
-The [<mark style="color:purple;">**BashiVerse Token (BSX)**</mark>](ecossytem/tokenomics.md#bashiverse-token-bashi) is an ERC20 token and serves as the primary medium of exchange within the BashiVerse ecosystem with a total supply of 1,337,000,000.
+The [<mark style="color:purple;">**BashiVerse Token (BASHI)**</mark>](ecossytem/tokenomics.md#bashiverse-token-bashi) is an ERC20 token and serves as the primary medium of exchange within the BashiVerse ecosystem with a total supply of 1,337,000,000.
 
 ### Where can I buy/earn BashiVerse Token (BSX)?
 
