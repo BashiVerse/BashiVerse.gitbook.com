@@ -55,9 +55,9 @@ Yes, BashiVerse will be playable at potentially little to no cost via an [<mark 
 
 The [<mark style="color:purple;">**BashiVerse Token (BASHI)**</mark>](ecossytem/tokenomics.md#bashiverse-token-bashi) is an ERC20 token and serves as the primary medium of exchange within the BashiVerse ecosystem with a total supply of 1,337,000,000.
 
-### Where can I buy/earn BashiVerse Token (BSX)?
+### Where can I buy/earn BashiVerse Token ($Bashi)?
 
-Bashiverse's native token BSX will be launched via [<mark style="color:purple;">**Fair Launch Auction**</mark>](ecossytem/copper-fair-launch.md) <mark style="color:purple;">\*\*\*\*</mark> on **CopperLaunch.** Afterwards, the only way to acquire BSX will be buying via automated market making smart contract(s) on Uniswap or Sushiswap \<URL TBD> and earning via playing BashiVerse or staking via providing LP tokens.
+Bashiverse's native token $Bashi will be launched via [<mark style="color:purple;">**Fair Launch Auction**</mark>](ecossytem/copper-fair-launch.md) <mark style="color:purple;">\*\*\*\*</mark> on **CopperLaunch.** Afterwards, the only way to acquire BSX will be buying via automated market making smart contract(s) on Uniswap or Sushiswap \<URL TBD> and earning via playing BashiVerse or staking via providing LP tokens.
 
 ### What is Bashi Fusion Fuel (BFF)?
 
