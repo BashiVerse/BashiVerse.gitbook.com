@@ -12,4 +12,4 @@ Different abilities unlock at different levels. This will be the majority of our
 
 Each Bashi will have its own set of stats such as max [<mark style="color:purple;">**fusion coun**</mark><mark style="color:purple;">t</mark>](../ecossytem/bff-and-bashi-minting.md), maximum HP, attack damage, luck, and accuracy for example within a spread range of base to +25% at its peak. All of these aspects of the NFT will be recorded on the metadata level which are NFT-bound and accessible through an owner's wallet or unique account within the game. Playing through and scaling up one's Bashi stats range is the on-chain aspect of progression. Each Bashi NFT will have a power level metadata trait to help users identifier the relative strength of their Bashi(s).
 
-![](<../.gitbook/assets/bashiverse forest.jpg>)
+![](<../.gitbook/assets/BashiForest Loading Screen.jpg>)
