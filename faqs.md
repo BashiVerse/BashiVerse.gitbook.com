@@ -73,7 +73,7 @@ BashiVerse is a MegaVerse, and will not be isolated to one blockchain. However, 
 
 
 
-### General Macro Outlook
+## General Macro Outlook
 
 ### <mark style="color:purple;">What is unique about the game?</mark>
 
