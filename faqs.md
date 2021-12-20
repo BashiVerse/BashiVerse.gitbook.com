@@ -12,7 +12,7 @@ We are currently in-development 👩🏻‍💻👩🏻‍💻👩🏻‍💻. P
 
 ### How do I get a Bashi NFT?
 
-<mark style="color:orange;">\*\* We do not plan to offer an initial minting sale. Please beware of scammers and imposters.</mark>&#x20;
+<mark style="color:orange;">\*\* We do not plan to offer an initial minting sale. Please beware of scammers and imposters.</mark>
 
 <mark style="color:purple;">**We will airdrop randomly generated Genuine Bashi NFTs to all BVX holders with at least 1337 tokens.**</mark>
 
@@ -33,7 +33,7 @@ We expect to have our first public matches in the BashiVerse in our[ <mark style
 
 ### Is the game free-to-play?
 
-We do plan to offer free-to-play via [<mark style="color:purple;">**Automated Scholarship program**</mark>](ecossytem/automated-scholarships.md).&#x20;
+We do plan to offer free-to-play via [<mark style="color:purple;">**Automated Scholarship program**</mark>](ecossytem/automated-scholarships.md).
 
 ## Gameplay
 
@@ -70,3 +70,33 @@ Bashi Fusion Fuel can be purchased via automated market making smart contracts o
 ### Which blockchain does the BashiVerse live on?
 
 BashiVerse is a MegaVerse, and will not be isolated to one blockchain. However, we plan to deploy on Ethereum and leverage a very promising Layer 2 scaling solution in zkSync for most of our post-release NFT transactions in order to mitigate the occurrences of high user fees.
+
+
+
+### General Macro Outlook
+
+### <mark style="color:purple;">What is unique about the game?</mark>
+
+We are reinventing Multiplayer Online Battle Arenas (MOBAs) in 2D format that is be fully enjoyable in single player mode. Players will have access to the tried and true 5 vs 5 heroes or champions that engage in auto-battles. The ability to strategically reposition one's units, selectively allocate resources, as well as leveraging up to 5 active SS / ultimates (one per Bashi on the field) create an insanely high skill ceiling for what is playable at a casual pace. BashiVerse when balanced out of beta release will give even the popular web 2 games a run for their money.
+
+### <mark style="color:purple;">Play to Earn and Gamefi is saturated. What will make BashiVerse successful?</mark>
+
+On top of an addicting gameplay and battle system, we have a clever automated scholarship system via Fair Draft Colosseum, a game mode similar to booster drafting in Hearthstone or Pokemon TCG. Owners can lend their Bashi NFTs to a pool for random drafting selection. Players whose Bashi(s) were drafted in those matches will earn a share of the proceeds earned from winning.
+
+### <mark style="color:purple;">What are your team's backgrounds?</mark>
+
+0xBigBoss is a fullstack web2 and solidity developer who got into programming in high school with a passion to build games eventually. He has worked in several tech startups as well as collaborating on huge projects for Porsche building their digital exploration app. He is currently the CTO of a digital advertising agency that serves mobile gaming and web2 businesses.
+
+0xJuggernaut is a frontend developer and game designer with 10 years of design experience covering all things in creative assets and narrative proliferation. He has worked 3 years in digital advertising and lead generation as well as contributing to the early development days of Genie XYZ (originally known as Cross Asset Swap) and Alchemist in web3.
+
+### <mark style="color:purple;">What time frame are you looking at development wise?</mark>
+
+6-8 months from when we quit our day jobs to develop BashiVerse full-time. Q3 2022.
+
+### <mark style="color:purple;">Which chain will you deploy the NFTs to that can facilitate cheap transactions?</mark>
+
+We originally thought about launching on BSC as ETH is currently unusable for minting multiple Bashi NFTs as players would want to do. We have used ZK's betanet product for minting NFTs and it has some promising signs that we look forward to testing. We are open to suggestions as we believe in your expertise in terms of where mass market trend and or volume is shifting towards.
+
+### <mark style="color:purple;">What's your go to market strategy and plan for acquiring new users?</mark>
+
+Build, iterate, and delivery. We have years of digital advertising and lead generation under our belts. Our previous web 2 business revolved heavily around youtube and twitch gaming space and all of their content creators. We are very familiar with vetting and negotiating with influencer partners. Part of the eventual public sale / fair launch auction will be allocated to hyper growth and mass market introduction when the game is live.
