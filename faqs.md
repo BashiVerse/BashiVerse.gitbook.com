@@ -71,8 +71,6 @@ Bashi Fusion Fuel can be purchased via automated market making smart contracts o
 
 BashiVerse is a MegaVerse, and will not be isolated to one blockchain. However, we plan to deploy on Ethereum and leverage a very promising Layer 2 scaling solution in zkSync for most of our post-release NFT transactions in order to mitigate the occurrences of high user fees.
 
-
-
 ## General Macro Outlook
 
 ### <mark style="color:purple;">What is unique about the game?</mark>
@@ -81,7 +79,7 @@ We are reinventing Multiplayer Online Battle Arenas (MOBAs) in 2D format that is
 
 ### <mark style="color:purple;">Play to Earn and Gamefi is saturated. What will make BashiVerse successful?</mark>
 
-On top of an addicting gameplay and battle system, we have a clever automated scholarship system via Fair Draft Colosseum, a game mode similar to booster drafting in Hearthstone or Pokemon TCG. Owners can lend their Bashi NFTs to a pool for random drafting selection. Players whose Bashi(s) were drafted in those matches will earn a share of the proceeds earned from winning.
+On top of addicting gameplay and battle system, we have a clever automated scholarship system via Fair Draft Colosseum, a game mode similar to booster drafting in Hearthstone or Pokemon TCG. Owners can lend their Bashi NFTs to a pool for random drafting selection. Players whose Bashi(s) were drafted in those matches will earn a share of the proceeds earned from winning. This process will naturally create an incentive for network effects to organically propagate from within Bashi's community to others in this space. We not do have to directly compete with any particularly popular web3 game as we have planned mutual protocols that will ultimately bridge our community to theirs and vice versa. (Specific smart contract details are sensitive and proprietary information hence will be available shortly after game's beta release in order to best serve the supporters and community members of BashiVerse.)
 
 ### <mark style="color:purple;">What are your team's backgrounds?</mark>
 
@@ -95,8 +93,8 @@ On top of an addicting gameplay and battle system, we have a clever automated sc
 
 ### <mark style="color:purple;">Which chain will you deploy the NFTs to that can facilitate cheap transactions?</mark>
 
-We originally thought about launching on BSC as ETH is currently unusable for minting multiple Bashi NFTs as players would want to do. We have used ZK's betanet product for minting NFTs and it has some promising signs that we look forward to testing. We are open to suggestions as we believe in your expertise in terms of where mass market trend and or volume is shifting towards.
+We originally thought about launching on a side chain or even BSC as ETH is currently unusable for minting multiple Bashi NFTs as players would want to do. We have used ZK's betanet product for minting NFTs and it has shown some promising capabilities and transaction throughput that we look forward to testing. We are open to suggestions as we believe in a broader expertise in terms of where mass user volume and market trends are ultimately shifting towards. We are chain agnostic, and religious only to BashiVerse and our community.
 
 ### <mark style="color:purple;">What's your go to market strategy and plan for acquiring new users?</mark>
 
-Build, iterate, and delivery. We have years of digital advertising and lead generation under our belts. Our previous web 2 business revolved heavily around youtube and twitch gaming space and all of their content creators. We are very familiar with vetting and negotiating with influencer partners. Part of the eventual public sale / fair launch auction will be allocated to hyper growth and mass market introduction when the game is live.
+Build, iterate, deliver, and jet fuel. We have years of digital advertising and lead generation under our belts. Our previous web 2 business revolved heavily around youtube and twitch gaming space and all of their content creators. We are very familiar with vetting and negotiating with influencer partners. Part of the eventual public sale / fair launch auction will be allocated to hyper growth and mass market introduction when the game is live.
