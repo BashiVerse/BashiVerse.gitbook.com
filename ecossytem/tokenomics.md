@@ -8,17 +8,19 @@ The BashiVerse Token (BVX) serves as the primary currency for the BashiVerse wit
 
 ### Token Distribution Model
 
-Full Unlock Schedule 2021 - 2025
+Full Unlock Schedule 2021 - 2028
+
+Seed Round: 5% (linear release over 24 months)
 
 Fair Launch Auction: 10% (instant unlock)
 
 Staking LP Rewards: 20%
 
-Play to Earn: 40%
+Play to Earn: 35%
 
 Ecosystem Growth Fund: 10%
 
-Team: 20% (linear / 3 yrs)
+Team: 20% (1 year full lock, linear / 2 yrs)
 
 ### **Ecosystem Growth Fund**
 
