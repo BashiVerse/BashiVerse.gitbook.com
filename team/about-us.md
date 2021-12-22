@@ -8,12 +8,12 @@ We are software and indie-game developers who spent our entire childhood summers
 
 ### Jack / BigBoss / Bashiverse.eth
 
-CTO - Web 3 Solidity Developer / Full Stack / Unity / C# (former work contributions: Porsche, Google, Steam)
+CTO - Web 3 Solidity Developer / Full Stack / Unity / C# (former contributions: Porsche, Google, Steam)
 
 ### 0xJuggernaut / Yunero.eth
 
-Creative Director - Frontend Developer / Game Designer / Story Writer / Adobe (former work contributions: Steam, Alchemist, GenieXYZ / Cross Asset Swap)
+Creative Director - Frontend Developer / Game Designer / Story Writer / Adobe (former contributions: Alchemist, GenieXYZ / Cross Asset Swap)
 
 ### Ethen / Ethen.eth
 
-CEO / Advisor - Ecosystem Mastermind (former work contributions: Alchemist / Crucible / mistX / Copperlaunch)
+Advisor - Ecosystem Mastermind (former contributions: Alchemist / Crucible / mistX / Copperlaunch)
