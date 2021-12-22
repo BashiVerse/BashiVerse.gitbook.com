@@ -6,7 +6,7 @@ We are software and indie-game developers who spent our entire childhood summers
 
 ![](../.gitbook/assets/techicons-small.png)
 
-### Jack/ BigBoss / Bashiverse.eth
+### Jack / BigBoss / Bashiverse.eth
 
 CTO - Web 3 Solidity Developer / Full Stack / Unity / C# (former work contributions: Porsche, Google, Steam)
 
