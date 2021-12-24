@@ -12,7 +12,7 @@ A simple and transparent unlock schedule coupled with supply allocation heavily 
 
 ### Token Distribution Model
 
-Full Unlock Schedule 2021 - 2028
+Full Unlock Schedule 2022 - 2028
 
 Seed Round: 5% (linear release over 24 months)
 
