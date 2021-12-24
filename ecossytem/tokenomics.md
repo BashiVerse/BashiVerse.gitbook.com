@@ -6,6 +6,10 @@ The medium which powers the play-to-own ecosystem must be well-distributed and c
 
 The BashiVerse Token (BVX) serves as the primary currency for the BashiVerse with a total supply of 1,337,000,000. In order to ensure the steady development and completion of the Megaverse, we structured its allocation and strict issuance rates to disproportionately favor and reward those in the community who participate early and participate often.
 
+### Linear Distribution & Majority Supply for Winning / LP Staking
+
+A simple and transparent unlock schedule coupled with supply allocation heavily towards skill-based and genuine participation on linear vesting schedules allows us to focus on building the game and delivery without any uncertainties regarding token supply.
+
 ### Token Distribution Model
 
 Full Unlock Schedule 2021 - 2028
