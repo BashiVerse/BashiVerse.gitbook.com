@@ -18,7 +18,7 @@ Staking LP Rewards: 20%
 
 Play to Earn: 35%
 
-Ecosystem Growth Fund: 10%
+Treasury (Ecosystem Growth Fund) : 10% - 3 month cliff (lockup after token FLA, then 2% unlock over 3 months followed by 36 months of linear vesting)
 
 Team: 20% (1 year full lock, linear / 2 yrs)
 
